@@ -2,8 +2,6 @@
 """
 Created on Fri Apr 14 22:54:04 2023
 核酸检测模拟程序
-
-@author: 熊泽铨
 """
 import random
 N,N1=0,0
